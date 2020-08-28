@@ -1,2 +1,2 @@
-# kollido-test
-Kollido Coming Soon Page
+## kollido
+Connecting businesses and students through games.
