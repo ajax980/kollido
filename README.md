@@ -1,2 +1,2 @@
 ## kollido
-Connecting businesses and students through games
+Connecting businesses and students through games.
